@@ -50,6 +50,7 @@ la función de utilidad `identificar_entidades` devuelve:
  {'entidad': 'ORG', 'texto': 'Confederación Argentina'},
  {'entidad': 'ORG', 'texto': 'Gobierno'},
  {'entidad': 'ORG', 'texto': 'Argentina'}]
+```
 
 En resumen, el código implementa un modelo personalizado de NER, bucle de entrenamiento, métricas de evaluación y funciones de utilidad para la simplificación e identificación de entidades. Todo el código está diseñado para trabajar con el idioma español.
 
